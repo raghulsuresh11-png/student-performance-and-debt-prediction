@@ -99,5 +99,3 @@ This dataset is based on the **U.S. Department of Education College Scorecard** 
 
 ## Author
 **Raghul Sureshbabu**
-
-**Raghul Sureshbabu**
